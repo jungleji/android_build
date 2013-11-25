@@ -100,6 +100,10 @@ FRAMEWORKS_BASE_SUBDIRS := \
 	    icu4j \
 	    voip \
 	    fmradio \
+	    swextend/securefile \
+	    swextend/gpio \
+	    swextend/isomountmanager \
+	    swextend/os \
 	 )
 
 #
